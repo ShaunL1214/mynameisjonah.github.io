@@ -16,6 +16,9 @@ ul {
 li {
        display: inline;
        padding: 0px 10px 0px 10px;
+       color: white;
+	       
+	       
 }
 h2 {
 	color: rgb(4,74,94)
