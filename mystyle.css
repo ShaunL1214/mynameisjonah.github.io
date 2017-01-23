@@ -9,14 +9,14 @@ header { text-align: center;
 p {
 	color: rgb(177,208,223)
 }
-    ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
+ul {
+        padding: 10px;
+        background: rgba(0,0,0,0.5);
     }
-    li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-    }
+li {
+       display: inline;
+       padding: 0px 10px 0px 10px;
+}
 h2 {
 	color: rgb(4,74,94)
 }
