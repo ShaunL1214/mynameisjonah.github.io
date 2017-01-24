@@ -8,7 +8,8 @@ header { text-align: center;
  }
 p {
 	color: rgb(177,208,223);
-	
+	padding: 10px;
+        background: rgba(0,0,0,0.5);
 }
 ul {
         padding: 10px;
