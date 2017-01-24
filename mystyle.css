@@ -24,7 +24,7 @@ h2 {
 	color: rgb(4,74,94)
 }
 a {
-	color: rgb(
+	color: white;
 }
 h1 {
 	color: rgb(4,74,94)
@@ -34,6 +34,3 @@ article {
       padding: 20px;
       margin: 0 auto;
     }
- a {
-     color: white;
-}
