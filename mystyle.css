@@ -15,9 +15,9 @@ ul {
         background: rgba(0,0,0,0.5);
     }
 li {
-      
-       padding: 0px 10px 0px 10px;    
        display: inline;
+       padding: 0px 10px 0px 10px;    
+       
 }
 h2 {
 	color: rgb(4,74,94)
