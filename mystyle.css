@@ -1,2 +1,7 @@
 body {
 	background: rgb(14,115,154);
+}
+   ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
