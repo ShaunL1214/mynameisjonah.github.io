@@ -15,4 +15,8 @@ li {
 a {
      color: rgb(177,208,223)
 }
-
+ article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
