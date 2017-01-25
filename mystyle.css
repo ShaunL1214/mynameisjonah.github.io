@@ -4,8 +4,6 @@ body {
    ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
+      color: rgb(177,208,223);
     }
-    li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-    }
+
