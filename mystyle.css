@@ -6,17 +6,7 @@ header { text-align: center;
       background-size: cover;
       color: rgb(4,74,94);
  }
-p {
-	color: rgb(177,208,223);
-	padding: 10px;
-        background: rgba(0,0,0,0.5);
-	 display: inline;
-       padding: 0px 10px 0px 10px; 
-}
-ul {
-        padding: 10px;
-        background: rgba(0,0,0,0.5);
-    }
+
 li {
        display: inline;
        padding: 0px 10px 0px 10px;    
